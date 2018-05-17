@@ -1,0 +1,39 @@
+Hub Information
+
+Hub Name:
+team31hub
+
+Hub Connection String:
+HostName=team31hub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=iPJlooWwLBay4Qpr28Tw5OVVN9qK31W+9SiY42Zx+jM=
+
+Hub Uri
+team31hub.azure-devices.net
+
+Device Information (Teams may not need all Devices but some teams will use all so only leverage what is needed)
+Device ID
+Device Key
+Device Connection String
+
+team31device1
+9NZNzKJnO1tXEUpOPHHAtA0EhXuJrF2LJZayOjdizeE=
+HostName=team31hub.azure-devices.net;DeviceId=team31device1;SharedAccessKey=9NZNzKJnO1tXEUpOPHHAtA0EhXuJrF2LJZayOjdizeE=
+
+team31device2
+bKPc3UrrF+kqw5zRIvfgu/cvij4NlbDmVNaEZicwKaA=
+HostName=team31hub.azure-devices.net;DeviceId=team31device2;SharedAccessKey=bKPc3UrrF+kqw5zRIvfgu/cvij4NlbDmVNaEZicwKaA=
+
+team31device3
+FH+UcxgDOi+w58oh6ZPCEty+7j6Wj1yscJrojvnIcyc=
+HostName=team31hub.azure-devices.net;DeviceId=team31device3;SharedAccessKey=FH+UcxgDOi+w58oh6ZPCEty+7j6Wj1yscJrojvnIcyc=
+
+team31device4
+a3XXoYhhTSMwk3o48JNSHZ5blA5kr/gyTf0avo4hipw=
+HostName=team31hub.azure-devices.net;DeviceId=team31device4;SharedAccessKey=a3XXoYhhTSMwk3o48JNSHZ5blA5kr/gyTf0avo4hipw=
+
+team31device5
+5nKax+68vhYcM4j8qLU0SI+dyqWdvNDIhnS9BW5rZC4=
+HostName=team31hub.azure-devices.net;DeviceId=team31device5;SharedAccessKey=5nKax+68vhYcM4j8qLU0SI+dyqWdvNDIhnS9BW5rZC4=
+
+team31device6
+8/s4EMuCF7gJKN91hXbV47KnZBPXKG29ZdgfP5ZSHQw=
+HostName=team31hub.azure-devices.net;DeviceId=team31device6;SharedAccessKey=8/s4EMuCF7gJKN91hXbV47KnZBPXKG29ZdgfP5ZSHQw=
